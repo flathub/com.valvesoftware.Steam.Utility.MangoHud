@@ -1,5 +1,5 @@
 id: com.valvesoftware.Steam.Utility.MangoHud
-default-branch: stable
+branch: stable
 sdk: org.freedesktop.Sdk//20.08
 runtime: com.valvesoftware.Steam
 runtime-version: stable
