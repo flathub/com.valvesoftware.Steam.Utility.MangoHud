@@ -1,8 +1,8 @@
 id: com.valvesoftware.Steam.Utility.MangoHud
-default-branch: beta
+default-branch: stable
 sdk: org.freedesktop.Sdk//20.08
 runtime: com.valvesoftware.Steam
-runtime-version: beta
+runtime-version: stable
 build-extension: true
 appstream-compose: false
 sdk-extensions:
