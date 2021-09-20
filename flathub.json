@@ -1,4 +1,6 @@
 {
   "skip-icons-check": true,
+  "end-of-life": "This extension was converted to a runtime extension",
+  "end-of-life-rebase": "org.freedesktop.Platform.VulkanLayer.MangoHud",
   "only-arches": ["x86_64"]
 }
